@@ -1,2 +1,3 @@
-TOKEN = "7795964246:AAG8d4ul5P6m6n76oH8SZgNeNqPCwnIweXM"
+TOKEN = ""
+
 API_Token = "ca0be369-b36e-4726-bca9-3bb524ffa6a7",
